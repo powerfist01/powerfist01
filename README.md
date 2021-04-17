@@ -1,6 +1,7 @@
-## Hola, I'm [Sujeet Singh!](https://singhsujeet0.web.app) 👋
+### Hi there 👋
 
-- 📫 How to reach me: [Twitter - @powerfist01](https://twitter.com/powerfist01)
+## I'm [Sujeet Singh!](https://singhsujeet0.web.app)
+
 - :soccer: Fun fact: I like to play football.
 
 <a href="https://github.com/powerfist01">
