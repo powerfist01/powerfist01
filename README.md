@@ -7,6 +7,6 @@
     :email:	sujeets207@gmail.com <br>
     :art: Portfolio: https://singhsujeet0.web.app <br>
     :briefcase: LinkedIn: https://linkedin.com/in/powerfist01 <br>
-    :soccer: Fun fact: I like to play football.
+    :soccer: Fact: I like to play football.
   </samp>
 </p>
