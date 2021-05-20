@@ -1,11 +1,6 @@
-### Hi there 👋
-
-## I'm [Sujeet Singh](https://singhsujeet0.web.app)!
-
-
 <p align="center">
   <samp>
-    Hi, I'm Sujeet! 👋 <br>
+    Hi, I'm [Sujeet Singh](https://singhsujeet0.web.app)! 👋 <br>
     🔥 Full Stack Web Developer grinding hard to make something cool  <br>
 <!--     :sparkles: Favorite Tech: JavaScript, Python ... <br> -->
 <!--     :notebook: I’m currently learning DS and Algo...  <br> -->
