@@ -10,7 +10,7 @@
 
 - 📫 Reach me at **sujeets207@gmail.com**
 
-- 👨‍💻 All of my projects are available at [powerfist01](https://singhsujeet0.web.io)
+- 👨‍💻 All of my projects are available at [powerfist01](https://singhsujeet0.web.app)
 
 - ⚡ Fun fact  **I like to play :chess_pawn: and :soccer: !** 
 
