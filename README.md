@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact  **I like to play :chess_pawn: and :soccer: !** 
 
-I have a bug to document technical stuffs that I do, which can be found at my [blog](https://powerfist01.github.io/blog).
+<!-- I have a bug to document technical stuffs that I do, which can be found at my [blog](https://powerfist01.github.io/blog). -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
