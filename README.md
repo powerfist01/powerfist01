@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujeet</h1>
 
-<h3 align="center">🔥 Full Stack Web Developer making something COOL</h3><br>
+<h3 align="center">🔥 Full Stack Web Developer making something COOL 🔥</h3><br>
 
 <p align="left"> <a href="https://twitter.com/powerfist01" target="blank"><img src="https://img.shields.io/twitter/follow/powerfist01?logo=twitter&style=for-the-badge" alt="powerfist01" /></a> </p>
 
