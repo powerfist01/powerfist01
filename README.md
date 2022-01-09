@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **JavaScript, Python and Vue**
 
-- 👨‍💻 All of my projects are available at [singhsujeet0.web.app](https://singhsujeet0.web.app)
+- 👨‍💻 Go to my portfolio [singhsujeet0.web.app](https://singhsujeet0.web.app)
 
 - ⚡ Fun fact  **I like to play :chess_pawn: and :soccer: !** 
 
