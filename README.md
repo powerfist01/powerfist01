@@ -2,8 +2,6 @@
 
 <h3 align="center">🔥 Full Stack Web Developer making something COOL 🔥</h3><br>
 
-<p align="left"> <a href="https://twitter.com/powerfist01" target="blank"><img src="https://img.shields.io/twitter/follow/powerfist01?logo=twitter&style=for-the-badge" alt="powerfist01" /></a> </p>
-
 - 🔭 I’m currently working with [GreyB](https://www.greyb.com/)
 
 - 💬 Ask me about **JavaScript, Python and Vue**
@@ -11,6 +9,8 @@
 - 👨‍💻 All of my projects are available at [singhsujeet0.web.app](https://singhsujeet0.web.app)
 
 - ⚡ Fun fact  **I like to play :chess_pawn: and :soccer: !** 
+
+<p align="left"> <a href="https://twitter.com/powerfist01" target="blank"><img src="https://img.shields.io/twitter/follow/powerfist01?logo=twitter&style=for-the-badge" alt="powerfist01" /></a> </p>
 
 <!-- I have a bug to document technical stuffs that I do, which can be found at my [blog](https://powerfist01.github.io/blog). -->
 
