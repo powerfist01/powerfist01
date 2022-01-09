@@ -10,8 +10,6 @@
 
 - ⚡ Fun fact  **I like to play :chess_pawn: and :soccer: !** 
 
-<p align="left"> <a href="https://twitter.com/powerfist01" target="blank"><img src="https://img.shields.io/twitter/follow/powerfist01?logo=twitter&style=for-the-badge" alt="powerfist01" /></a> </p>
-
 <!-- I have a bug to document technical stuffs that I do, which can be found at my [blog](https://powerfist01.github.io/blog). -->
 
 <h3 align="left">Connect with me:</h3>
