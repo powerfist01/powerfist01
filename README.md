@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **JavaScript, Python and Vue**
 
-- 📫 Reach me at **sujeets207@gmail.com**
-
 - 👨‍💻 All of my projects are available at [singhsujeet0.web.app](https://singhsujeet0.web.app)
 
 - ⚡ Fun fact  **I like to play :chess_pawn: and :soccer: !** 
