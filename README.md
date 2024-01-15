@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujeet</h1>
 
-<h3 align="center">🔥 Full Stack Web Developer making something COOL 🔥</h3><br>
+<h3 align="center">🔥 Technical Architect always making COOL stuffs🔥</h3><br>
 
 - 🔭 I’m currently working with [GreyB](https://www.greyb.com/)
 
